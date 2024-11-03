@@ -1,1 +1,16 @@
+프로젝트 기간
+● 2024.11 ~ 진행 중
 
+목적
+● Revit(3D) 모델에서 Room의 좌표값과 최소한의 Excel DATA를 이용한 Family배치
+
+팀원
+● 1명
+
+작업 툴
+● C#, Tortoise, DevExpress, Revit, AutoCAD
+
+내용
+1. Room의 Line을 기준으로 전등, 배수관 등 배치
+2. Room의 좌표를 이용해 Room 내부의 최적화 배치 Point 계산
+3. Point를 이용한 컨듀잇 배치

@@ -1,1 +1,16 @@
+프로젝트 기간
+● 2024.09 ~ 2024.11
 
+목적
+● Revit(3D) 모델에서 전기실 Family배치를 위한 Cabinet, Tray, BoosterBust 생성 및 Fitting 적용
+
+팀원
+● 1명
+
+작업 툴
+● C#, Tortoise, DevExpress, Revit, AutoCAD
+
+내용
+1. 전기실(Room)을 기준으로 Cabinet 생성
+2. 좌표 정보를 통해 Tray생성, Fitting 적용, Parameter 적용
+3. 좌표 정보를 통해 BoosterBust 생성, Fitting 적용, Parameter 적용

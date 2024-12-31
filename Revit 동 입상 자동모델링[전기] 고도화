@@ -1,0 +1,16 @@
+기간
+2024년 11월 ~ 12월
+
+목적
+기존 Revit(3D) 모델에서 AutoCad파일과 최적화 Excel 파일의 정보를 통해 Revit 패밀리 생성 및 배치를 한 이후 각 패밀리의 특성 및 건축 법을 기반으로 패밀리 사이 Conduit 혹은 Tray 연결
+
+팀원
+1명 (개발자)
+
+작업 툴
+C#, Tortoise, DevExpress, Revit API, AutoCAD
+
+내용
+- Excel 정보 기반으로 해당 Level, 패밀리, 공종, 건춫 법을 기반으로 Conduit 연결
+- Excel 정보 기반으로 해당 Level, 패밀리, 공종, 건춫 법을 기반으로 Tray 연결
+- 특정 구역(ex 화장실 사이 벽) Conduit, Tray 진로 회피

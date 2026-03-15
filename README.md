@@ -1,4 +1,4 @@
-# 🏢 GDSSNC (2023.11 ~ 재직 중)
+# 🏢 GDSSNC (2023.11 ~ 2025.12)
 
 **포지션:** C#/.NET 응용 프로그램 개발자
 **기술 스택:** `C#`, `.NET`, `Revit API`, `DevExpress`, `AutoCAD`

@@ -33,16 +33,8 @@
 - **네임스페이스 및 클래스 변경:**  
   일부 클래스/메서드 경로 변경 및 obsolete 멤버 대체, 신규 API 기능 반영.  
   [Revit 2025 API의 많은 변화 및 추가 기능 확보]
-- **주요 프로젝트 구조:**  
-Revit2025/
-├── dll_DBimRevitMain/ # 메인 Revit 애드인
-├── dll_DBimRevitA/ # 건축 애드인
-├── dll_DBimRevitE/ # 전기 애드인
-├── dll_DBimRevitM/ # 기계 애드인
-├── dll_DBimRevitD/ # 구조 애드인
-└── dll_DBimRevitAsm/ # 조립 애드인
 
-text
+
 - **적용 작업:**  
 - API 호출 및 이벤트 핸들러 최신화  
 - UI 프레임워크 및 커맨드 구조 개선  
@@ -55,16 +47,6 @@ text
 - **VS 2022 및 .NET 8, MSBuild 최신 버전 적용**  
 - **빌드 구성 개편 및 참조/의존성 구조 개선**
 - **솔루션 재구성:**  
-DBimQTO_TEMP.sln (VS2022)
-├── Common/
-├── Service/
-├── Revit2025/
-├── WebServices/
-├── AutoCad/
-├── Navisworks/
-└── ClickOnce/
-
-text
 - **IntelliSense, 디버깅, 코드분석, 성능프로파일링 등 최신 도구 적극 활용**
 
 ### 3. 의존성·패키지·외부 라이브러리 최신화
